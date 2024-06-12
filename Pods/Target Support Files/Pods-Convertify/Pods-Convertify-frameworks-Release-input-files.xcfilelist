@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Convertify/Pods-Convertify-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GoogleUtilities-framework/GoogleUtilities.framework
+${BUILT_PRODUCTS_DIR}/Promises-framework/Promise.framework
+${BUILT_PRODUCTS_DIR}/PromisesObjC-framework/FBLPromises.framework
+${BUILT_PRODUCTS_DIR}/nanopb-framework/nanopb.framework
